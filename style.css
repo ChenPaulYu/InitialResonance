@@ -1,0 +1,482 @@
+@import url("https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700");
+html, body {
+  background-color: #111;
+  color: white;
+  font-family: "Hind", sans-serif;
+}
+
+.animated {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.status {
+  white-space: nowrap;
+}
+
+.loading {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+  z-index: 100;
+  background-image: url("./img/同根聲iphone介面.png");
+  background-size: cover;
+  pointer-events: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loading img {
+  width: 90%;
+  max-width: 500px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.container-fluid {
+  padding: 50px;
+}
+
+[class^='col'] {
+  padding: 0;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 4s;
+          animation-delay: 4s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 5s;
+          animation-delay: 5s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 6s;
+          animation-delay: 6s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 7s;
+          animation-delay: 7s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 8s;
+          animation-delay: 8s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 9s;
+          animation-delay: 9s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 10s;
+          animation-delay: 10s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 11s;
+          animation-delay: 11s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 12s;
+          animation-delay: 12s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 13s;
+          animation-delay: 13s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 14s;
+          animation-delay: 14s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 15s;
+          animation-delay: 15s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 16s;
+          animation-delay: 16s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 17s;
+          animation-delay: 17s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 18s;
+          animation-delay: 18s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 19s;
+          animation-delay: 19s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 20s;
+          animation-delay: 20s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 21s;
+          animation-delay: 21s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 22s;
+          animation-delay: 22s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 23s;
+          animation-delay: 23s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 24s;
+          animation-delay: 24s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 25s;
+          animation-delay: 25s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 26s;
+          animation-delay: 26s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 27s;
+          animation-delay: 27s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 28s;
+          animation-delay: 28s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 29s;
+          animation-delay: 29s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 30s;
+          animation-delay: 30s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 31s;
+          animation-delay: 31s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 32s;
+          animation-delay: 32s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 33s;
+          animation-delay: 33s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 34s;
+          animation-delay: 34s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 35s;
+          animation-delay: 35s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 36s;
+          animation-delay: 36s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 37s;
+          animation-delay: 37s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 38s;
+          animation-delay: 38s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 39s;
+          animation-delay: 39s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 40s;
+          animation-delay: 40s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 41s;
+          animation-delay: 41s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 42s;
+          animation-delay: 42s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 43s;
+          animation-delay: 43s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 44s;
+          animation-delay: 44s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 45s;
+          animation-delay: 45s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 46s;
+          animation-delay: 46s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 47s;
+          animation-delay: 47s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 48s;
+          animation-delay: 48s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 49s;
+          animation-delay: 49s;
+}
+
+.delay-ani-i {
+  -webkit-animation-delay: 50s;
+          animation-delay: 50s;
+}
+
+.col-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.cirs {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  -webkit-transform: scale(0.6);
+          transform: scale(0.6);
+}
+.cirs .cir {
+  background-color: #FFF936;
+  width: 2vmin;
+  height: 2vmin;
+  border-radius: 50%;
+  margin: 2vmin;
+}
+.cirs .c1 {
+  width: 3vmin;
+  height: 3vmin;
+  position: relative;
+}
+.cirs .c1:before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 3vmin;
+  height: 3vmin;
+  border-radius: 50%;
+  border: 1px solid #FFF936;
+  left: -2vmin;
+}
+.cirs .c2 {
+  width: 7vmin;
+  height: 7vmin;
+}
+.cirs .c3 {
+  width: 14vmin;
+  height: 14vmin;
+}
+
+.block {
+  flex-grow: 0;
+  font-style: 0;
+  padding-bottom: 100%;
+  position: relative;
+  cursor: pointer;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2vmin;
+}
+@-webkit-keyframes shaking {
+  0%,100% {
+    left: 0%;
+  }
+  25%,75% {
+    left: 1%;
+  }
+  50% {
+    left: -1%;
+  }
+}
+@keyframes shaking {
+  0%,100% {
+    left: 0%;
+  }
+  25%,75% {
+    left: 1%;
+  }
+  50% {
+    left: -1%;
+  }
+}
+.block:hover {
+  -webkit-animation: shaking 0.5s infinite;
+          animation: shaking 0.5s infinite;
+}
+@media screen and (min-width: 600px) {
+  .block {
+    flex: 20vw;
+    height: 20vw;
+  }
+}
+.block.small .content {
+  min-height: 250px;
+  padding-bottom: 0;
+}
+.block.small .content .text {
+  font-size: 8vmin;
+}
+@media screen and (max-width: 600px) {
+  .block.small .content {
+    min-height: 50px;
+    height: 12vw;
+  }
+}
+.block .content {
+  border: solid 3px #FFF936;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  transition: 0.5s;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block .content:active, .block .content.active {
+  transition: 0s;
+  background-color: #FFF936;
+  color: black;
+}
+.block .content span.text {
+  font-size: 8vmin;
+  font-weight: 900;
+  position: absolute;
+  left: 10%;
+  top: 0px;
+  text-shadow: -1px -1px 0 #FFF936, 1px -1px 0 #FFF936, -1px 1px 0 #FFF936, 1px 1px 0 #FFF936;
+  color: #111;
+}
+.block .content img {
+  width: 90%;
+  position: absolute;
+  left: 50%;
+  top: 54%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.switchButton {
+  background-color: #FFF936;
+  color: black;
+  display: flex;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.switchButton .info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-weight: 900;
+}
+.switchButton .info .small {
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+.switchButton i {
+  font-size: 40px;
+  cursor: pointer;
+}
+.switchButton i:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.keyboard {
+  display: flex;
+}
+@media screen and (max-width: 700px) {
+  .keyboard {
+    flex-direction: column;
+  }
+}
+.keyboard > div {
+  flex: 1;
+}
